@@ -1,4 +1,3 @@
-Sentence Correction using RNN’s(Deep learning)
  
                                            Sentence Correction using RNN’s
 Instigation:
